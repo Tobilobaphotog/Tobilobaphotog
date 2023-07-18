@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tobiloba
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Swift/UIKit
-- 💞️ I’m looking to collaborate on iOS Development Projects
+- 💞️ I’m looking to collaborate on iOS Projects
 - 📫 How to reach me eobanky@gmail.com
 
 <!---
